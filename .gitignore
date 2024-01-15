@@ -27,6 +27,13 @@
 *.lib
 
 # Executables
+*.exec
 *.exe
 *.out
 *.app
+
+# macos
+.DS_Store
+
+# Build
+build
